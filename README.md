@@ -1,6 +1,14 @@
 <div align="center">
 
-### Hi there 👋
+<img src="首页图.png" width="100%" />
+
+### *"Code is poetry, bugs are plot twists."*
+
+</div>
+
+---
+
+<div align="center">
 
 `Developer` · `Bot Builder` · `Minecraft Modder`
 
